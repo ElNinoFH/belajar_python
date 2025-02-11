@@ -16,3 +16,5 @@ print(type(active))
 
 car_model = None
 print(type(car_model))
+
+# tes
