@@ -1,0 +1,7 @@
+Python is a programming labguage
+Python is easy to learn
+Master Python
+Master HTML
+Master CSS
+Master Database
+Master Django
