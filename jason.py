@@ -22,4 +22,4 @@ with open("data_file.json", "w") as file:
     json.dump(data, file, indent=4)
 json.dumps(data, indent=4)
 
-# print(json.dumps(data))
+print(json.dumps(data))
