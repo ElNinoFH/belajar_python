@@ -25,8 +25,6 @@ button_convert = tk.Button(
 
 label_result = tk.Label(font=("Arial", 12))
 
-label_result = tk.Label(font=("Arial", 12))
-
 label_title.pack(pady=10)
 entry_temperature.pack(pady=5)
 button_convert.pack(pady=5)
